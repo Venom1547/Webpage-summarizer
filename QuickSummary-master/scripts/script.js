@@ -1,5 +1,5 @@
 // // API Key setup - Make sure to use your API Key 
-// const MY_GEMINI_API_KEY = "AIzaSyC29Z8fTKKx4E9QNEb8v7Dg-tamgS7CV_E"; // Get it for free at https://aistudio.google.com/app/apikey
+// const MY_GEMINI_API_KEY = ""; // Get it for free at https://aistudio.google.com/app/apikey
 
 // let is_busy = false;
 // let model = 'gemini-1.5-flash';
@@ -210,7 +210,7 @@
 // }
 
 // API Key setup - Make sure to use your API Key 
-const MY_GEMINI_API_KEY = "AIzaSyC29Z8fTKKx4E9QNEb8v7Dg-tamgS7CV_E"; // Get it for free at https://aistudio.google.com/app/apikey
+const MY_GEMINI_API_KEY = ""; // Get it for free at https://aistudio.google.com/app/apikey
 
 let is_busy = false;
 let model = 'gemini-1.5-flash';
